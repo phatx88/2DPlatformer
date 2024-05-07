@@ -3,3 +3,4 @@
   1) MOVEMENT with New Input System
   2) LEVEL DESIGN with Tile Palette
   3) SMOOTH CAMERA FOLLOW
+  4) 2D LIGHTING and SHADING
